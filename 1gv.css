@@ -1,0 +1,547 @@
+body{
+    max-width: 1000px;
+    width: 100%;
+    position: relative;
+
+}
+
+
+
+.grubeli{
+    width: 60px;
+    position: relative;
+    animation-duration: 50s;
+    animation-name: mozraoba1;
+    animation-iteration-count: infinite;
+    left: 90PX;
+    animation-timing-function;
+    animation-delay: 1s;
+}
+
+    
+    
+@keyframes mozraoba1
+    
+{
+    0% {; left: 90; }
+    
+    100%{ left: 700px; }
+}
+
+.grubeli2{
+    width: 60px;
+    position: relative;
+    animation-duration: 55s;
+    animation-name: mozraoba2;
+    animation-iteration-count: infinite;
+    
+    animation-delay: 4s;
+}
+@keyframes mozraoba2
+    
+{
+    0% { left: 150px; }
+    
+    
+    100%{ left: 600px; }
+}
+.grubeli3{
+    width: 60px;
+    position: relative;
+    animation-duration: 35s;
+    animation-name: mozraoba3;
+    animation-iteration-count: infinite;
+    
+    animation-delay: 1s;
+
+
+}
+@keyframes mozraoba3
+    
+{
+    0% { left: 190px; }
+    
+    
+    100%{ left: 400px; }
+}
+.grubeli4{
+    width: 60px;
+    position: relative;
+    animation-duration: 55s;
+    animation-name: mozraoba4;
+    animation-iteration-count: infinite;
+    left: 300PX;
+    animation-timing-function;
+    animation-delay: 9s;
+
+}
+
+@keyframes mozraoba4
+    
+{
+    0% { left: 200px; }
+    
+    
+    100%{ left: 500px; }
+}
+.grubeli5{
+    width: 60px;
+    position: relative;
+    animation-duration: 55s;
+    animation-name: mozraoba5;
+    animation-iteration-count: infinite;
+    
+    animation-timing-function;
+    animation-delay: 1s;
+}
+@keyframes mozraoba5
+    
+{
+    0% { right: 170px; }
+    
+    
+    100%{ right: 400px; }
+}
+.grubeli6{
+    width: 60px;
+    position: relative;
+    animation-duration: 40s;
+    animation-name: mozraoba6;
+    animation-iteration-count: infinite;
+    right: 90PX;
+    animation-timing-function;
+   
+
+}
+@keyframes mozraoba6
+{
+    0% { right: 270px; }
+    
+    
+    100%{ right: 450px; }
+}
+
+.grubeli7{
+    width: 60px;
+    position: relative;
+    animation-duration: 55s;
+    animation-name: mozraoba5;
+    animation-iteration-count: infinite;
+    
+    animation-timing-function;
+    animation-delay: 8s;
+
+}
+@keyframes mozraoba7
+{
+    0% { right: 130px; }
+    
+    
+    100%{ right: 308px; }
+}
+
+.grubeli8{
+    
+    width: 60px;
+    position: relative;
+    animation-duration: 55s;
+    animation-name: mozraoba8;
+    animation-iteration-count: infinite;
+    
+    animation-timing-function;
+    animation-delay: 2s;
+}
+@keyframes mozraoba8
+{
+    0% { right: 270px; }
+    50% { right: 370px; }
+    
+    100%{ right: 270px; }
+}
+.grubeli9{
+    width: 60px;
+    position: relative;
+    animation-duration: 55s;
+    animation-name: mozraoba9;
+    animation-iteration-count: infinite;
+   
+    animation-timing-function;
+    animation-delay: 2s;
+}
+@keyframes mozraoba9
+{
+    0% { right: -170px; }
+    50% { right: 170px; }
+    
+    100%{ right: -170px; }
+}
+.grubeli10{
+    width: 60px;
+    position: relative;
+    animation-duration: 45s;
+    animation-name: mozraoba10;
+    animation-iteration-count: infinite;
+    right: -200px;
+    animation-timing-function;
+    animation-delay: 2s;
+
+}
+@keyframes mozraoba10
+{
+    0% { right: -200px; }
+    50% { right: 130px; }
+    
+    100%{ right: -200px; }
+}
+
+
+/* აქ იწყება ფიფქები*/
+
+
+
+
+
+.fifqebi2 i{
+    width: 40px;
+    padding: 40px;
+    animation-name: mozraoba12;
+    position: relative;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    top: -300px;
+    animation-timing-function;
+    animation-delay: 3s;
+    z-index: 10;
+    
+}
+@keyframes mozraoba12
+{
+    0% {top:-40px;left: 90px;  }
+    10% {left: 60px;  }
+    20%{left: 90px;  }
+    30%{left: 60px;  }
+    40%{left: 90px; }
+    
+    
+    100% { left: 20px; top: 100px; }
+}
+
+.fifqebi3 i{
+    width: 40px;
+    padding: 30px;
+    animation-name: mozraoba13;
+    position: relative;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    top: -300px;
+    animation-timing-function;
+    animation-delay: 4s;
+    z-index: 10;
+    
+}
+@keyframes mozraoba13
+{
+    0% {top:-60px;left: 50px;  }
+    10% {left: 60px;  }
+    20%{left: 40px;  }
+    30%{left: 60px;  }
+    40%{left: 40px; }
+    
+    
+    100% { left: 20px; top: 100px; }
+}
+.fifqebi4 i{
+    width: 40px;
+    padding: 40px;
+    animation-name: mozraoba14;
+    position: relative;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    top: -300px;
+    animation-timing-function;
+    animation-delay: 5s;
+    z-index: 10;
+    
+}
+@keyframes mozraoba14
+{
+    0% {top:-90px;left: 50px;  }
+    10% {left: 60px;  }
+    20%{left: 40px;  }
+    30%{left: 60px;  }
+    40%{left: 40px; }
+    
+    
+    100% { left: 90px; top: 100px; }
+}
+
+.fifqebi5 i{
+    
+    width: 40px;
+    padding: 40px;
+    animation-name: mozraoba15;
+    position: relative;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    top: -400px;
+    animation-timing-function;
+    animation-delay: 6s;
+    z-index: 10;
+    
+}
+@keyframes mozraoba15
+{
+    0% {top:-90px;left: 50px;  }
+    10% {left: 60px;  }
+    20%{left: 40px;  }
+    30%{left: 60px;  }
+    40%{left: 40px; }
+    
+    
+    100% { left: 20px; top: 80px; }
+}
+
+.fifqebi6 i{
+    
+    width: 40px;
+    padding: 40px;
+    animation-name: mozraoba16;
+    position: relative;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    top: -900px;
+    animation-timing-function;
+    animation-delay: 9s;
+    z-index: 10;
+    
+}
+@keyframes mozraoba16{
+0% {top:-400px;left: 50px;  }
+10% {left: 60px;  }
+20%{left: 40px;  }
+30%{left: 60px;  }
+40%{left: 40px; }
+
+
+100% { left: 20px; top: -300px; }
+}
+
+.fifqebi7 i{
+    width: 100%px;
+    padding: 30px;
+    animation-name: mozraoba17;
+    position: relative;
+    animation-duration: 39s;
+    animation-iteration-count: infinite;
+    top:-1000px;
+    left: 44px;
+    animation-delay: 18s;
+    z-index: 10;
+    
+
+}
+
+@keyframes mozraoba17{
+
+    0% {top:-80px }
+    50% {top:-80px }
+    
+
+    100% {  top: -80px; }
+    }
+
+.fifqebi8 i{
+    width: 100%px;
+    padding: 30px;
+    animation-name: mozraoba18;
+    position: relative;
+    animation-duration: 39s;
+    animation-iteration-count: infinite;
+    top:-1000px;
+    left: 44px;
+    animation-delay: 26s;
+    z-index: 10;
+    
+           
+    
+}
+    @keyframes mozraoba18{
+
+        0% {top:-98px }
+        50% {top:-98px }
+        
+    
+        100% {  top: -98px; }
+        }
+
+.fifqebi9 i{
+ width: 100%px;
+ padding: 30px;
+animation-name: mozraoba19;
+position: relative;
+animation-duration: 39s;
+animation-iteration-count: infinite;
+top:-1000px;
+left: 59px;
+animation-delay: 39s;
+z-index: 10;         
+}
+@keyframes mozraoba19{
+0% {top:-190px }
+50% {top:-190px }       
+100% {  top: -190px; }
+}
+.tovlisbabua{
+    width: 0px;
+    animation-name: tovlisbabua;
+    top: -370px;
+    position: relative;
+    
+    animation-iteration-count: infinite;
+    left: 740px;
+    animation-duration: 50s;
+    animation-delay: 15s;
+
+}
+
+@keyframes tovlisbabua{
+    0% {top: -370px; left: 740px; width:50px;}
+    5% {top: -370px; left: 740px; width:50px;}
+    15% {  top: -370px;; left:580px;width:50px; }
+    40%{  top: -370px;; left:580px;width:50px; }
+    45% {  top: -370px;; left:580px;width:50px; }
+    50% {  top: -385px ; left:580px;width:50px; }
+    55%{  top: -370px;; left:580px;width:50px; }
+    60%{  top: -385px ; left:580px;width:50px; }
+    70%{  top: -370px;; left:580px;width:50px; }
+    75%{  top: -385px ; left:580px;width:50px; }
+    80%{  top: -370px;; left:580px;width:50px; }
+    85%{  top: -385px ; left:580px;width:50px; }
+    90%{  top: -370px;; left:580px;width:50px; }
+    95%{  top: -385px ; left:580px;width:50px; }    
+    100% {  top: -370px;; left:580px;width:50px; }
+}
+
+.tovlisbabua2{
+    width: 0px;
+    animation-name: tovlisbabua2;
+    top: -370px;
+    position: relative;
+    
+    animation-iteration-count: infinite;
+    left: 250px;
+    animation-duration: 50s;
+    animation-delay: 15s;
+}
+@keyframes tovlisbabua2{
+    0% {top: -370px;  left:250px; width:50px; }
+    5% {top: -370px; left:250px; width:50px; }
+    15% {top: -370px;  left:410px; width:50px; }
+    40% {top: -370px;  left:410px; width:50px; }
+    45% {  top:-385px ; left:410px;width:50px; }
+    50%{top: -370px;  left:410px; width:50px; }
+    55%{  top:-385px ; left:410px;width:50px; }
+    60%{  top: -370px; ; left:410px;width:50px; }
+    65%{  top:-385px ; left:410px;width:50px; }
+    70%{  top: -370px; ; left:410px;width:50px; }
+    75%{  top:-385px ; left:410px;width:50px; }
+    80%{  top: -370px; ; left:410px;width:50px; }
+    85%{top:-385px ; left:410px;width:50px; }
+    90% {  top: -370px; ; left:410px;width:50px; }
+    95%{  top:-385px ; left:410px;width:50px; }
+    100% {  top: -370px; ; left:410px;width:50px; }
+
+
+}
+
+.feirverki{
+    width: 0px;
+    animation-name:feirverki ;
+    top: -410px;
+    position: relative;
+    animation-name: feirverki;
+    
+    animation-iteration-count: infinite;
+    left: 530px;
+    animation-duration: 50s;
+    animation-delay: 22s;
+    
+}
+@keyframes feirverki{
+    0% {top:-410px; ; left:530px; width: 40px; }
+    15% {top:-410px; ; left:530px; width: 40px;  }
+    70% {top:-410px; ; left:530px; width: 40px;  }
+    80% {top:-410px; ; left:530px; width: 0px;  }
+    100% {top:-410px; ; left:530px; width: 0px;  }
+
+}
+
+.afetqeba{
+    width: 0px;
+    border-radius: 70%;
+    position: relative;
+    animation-name: afetqeba;
+    
+    animation-iteration-count: infinite;
+    
+    animation-duration: 50s;
+    animation-delay: 23s;
+    
+}
+@keyframes afetqeba {
+    0%  {top:-470px;  left: 523px; width: 50px; }
+    
+    20% {  top: -690px;  left:440px; width: 250px; }
+   
+    50% {  top: -690px;  left:440px; width: 260px; }
+    70% {  top: -520px;  left:580px; width: 0px; }
+    90% {  top: -520px;  left:580px; width: 0px; }
+    100% {  top: -520px;  left:580px; width: 0px; }
+}
+
+h2{
+    color: rgb(230, 5, 5);
+    position: relative;
+    transform: translateY(-570px);
+    margin-left: 130px;
+    font-size: 0px;
+    
+    
+    animation-name: hepy;
+    animation-iteration-count: infinite;
+    animation-duration: 60s;
+    animation-delay: 4s;
+      
+}
+
+@keyframes hepy { 
+    0%  {  
+        transform: translateY(-570px);
+         margin-left: 130px;
+         color: rgb(230, 5, 5); ; font-size: 2px;}
+    3%{color: rgb(38, 38, 211);}
+    5%{   color: rgb(230, 5, 5); }
+    7%{color: rgb(38, 38, 211);}
+    10% {color: rgb(38, 38, 211); }
+    15%{   color: rgb(230, 5, 5); }
+    20% {color: rgb(38, 38, 211);}
+    25% {   color: rgb(230, 5, 5); ; font-size: 22px;}
+    30%{color: rgb(38, 38, 211);}
+    35%{   color: rgb(230, 5, 5); ; font-size: 22px;}
+    40% {  color: rgb(33, 33, 241); }
+    45%{   color: rgb(230, 5, 5); ; font-size: 22px;}
+    50%{color: rgb(38, 38, 211);}
+    55%{   color: rgb(230, 5, 5); ; font-size: 22px;}
+    60% {color: rgb(38, 38, 211);}
+    65%{   color: rgb(230, 5, 5); ; font-size: 22px;}
+    70%{color: rgb(38, 38, 211);}
+    75%{   color: rgb(230, 5, 5); ; font-size: 22px;}
+    80% {color: rgb(38, 38, 211);}
+    85%{   color: rgb(230, 5, 5); ; font-size: 22px;}
+    90%{color: rgb(38, 38, 211);}
+    95%{   color: rgb(230, 5, 5); ; font-size: 22px;}
+    100%  {  transform: translateY(-570px);
+            margin-left: 130px;
+            color: rgb(230, 5, 5); font-size: 22px;}
+}
+
